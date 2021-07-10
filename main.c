@@ -1,3 +1,8 @@
+/*
+Khaled Ahmed swilam Gomaa----------sec:2----------BN:5
+Khaled Gamal Saber Hassaneen-------sec:2----------BN:6
+Khaled Atef Saad Abdalaaty---------sec:2----------BN:8
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
